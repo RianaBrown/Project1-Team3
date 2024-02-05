@@ -5,6 +5,7 @@ This project shines a light on who is most likely to die from a gun whether it i
 education, sex, age, or a host of other factors.
 
 The repository for this project includes:
+
 Output folder
     -Contains png files with screenshots of the chart summarizations
 
