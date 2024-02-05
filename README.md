@@ -7,10 +7,10 @@ education, sex, age, or a host of other factors.
 The repository for this project includes:
 
 Output folder
-    -Contains png files with screenshots of the chart summarizations
+    Contains png files with screenshots of the chart summarizations
 
 Resources folder
-    -contains a csv file "gun_deaths" and it is the data source
+    Contains a csv file "gun_deaths" and it is the data source
 
 Python Script File "Merged_Guns_in_America" which contains graphs and analysis
 
